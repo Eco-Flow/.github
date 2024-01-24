@@ -13,29 +13,29 @@ This community is centered around the pipelines developed by the Eco-Flow team. 
 Or start a community discussion about a potential pipeline by creating a new issue on [Eco-Flow/pipeline-discussions](https://github.com/Eco-Flow/pipeline-discussions/issues). 
 
 ## Who are we?
-<img style="margin-right: 1.0rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/chris.png" />
+<img style="margin-right: 1.0rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/chris.png">
 
 #### Project lead           : Chris Wyatt
 Chris is a senior bioinformatician on the project, with a background in omic technologies and pipeline development.
-<br><br>
+<br><br><br><br>
 
-<img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/Simon.png" />
+<img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/Simon.png">
 
 #### Technical lead                  : Simon Murray
 Simon is a senior bioinformatician on the project, with a background in pipeline development and containerisation.
-<br><br>
+<br><br><br>
 
-<img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/seirian.png" />
+<img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/seirian.png">
 
 #### Ecology Advisor             : Seirian Sumner
 Professor Seirian Sumner is a leading researcher in ecology and genomics.
-<br><br>
+<br><br><br>
 
-<img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/yannick.png" />
+<img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/yannick.png">
 
 #### Bioinformatics Advisor : Yannick Wurm
 Yannick is a data scientist expert on genome analysis and evolution.
-<br><br><br><br>
+<br><br><br>
 
 ## Where can I found out more?
 

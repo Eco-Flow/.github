@@ -8,9 +8,9 @@ Eco-Flow wants to do more than just build pipelines, we want to cultivate a heal
 
 This community is centered around the pipelines developed by the Eco-Flow team. The pipelines developed will be requested by the community.
 
-If you would like to join the community then pelase email `ecoflowucl [at] gmail.com`
+**If you would like to join the community then please email `ecoflowucl [at] gmail.com`.**
 
-Or start a community discussion about a 
+Or start a community discussion about a potential pipeline by creating a new issue on [Eco-Flow/pipeline-discussions](https://github.com/Eco-Flow/pipeline-discussions/issues). 
 
 ## Who are we?
 <img style="margin-right: 1.0rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/chris.png" />
@@ -47,7 +47,7 @@ We intend to develop novel, gold standard Nextflow pipelines for the agri-ecolog
 
 The intention if for all our pipelines to be deployable in any environment (local, on-prem HPC or cloud) utilising either [Docker](https://www.docker.com/why-docker/) or [Singularity](https://docs.sylabs.io/guides/latest/user-guide/introduction.html#why-use-singularityce) for containerisation. 
 
-At Eco-Flow we want to help make deploying large-scale bioinformatics pipelines as easy for you as possible which is why everything we produce is public. This includes the configuration files for specific on-premise HPCs. If you want to see if we have already configured Nextflow for you HPC then check out [configs repo](https://github.com/Eco-Flow/configs).
+At Eco-Flow we want to help make deploying large-scale bioinformatics pipelines as easy for you as possible which is why everything we produce is public. This includes the configuration files for specific on-premise HPCs. If you want to see if we have already configured Nextflow for you HPC then check out [Eco-Flow/configs](https://github.com/Eco-Flow/configs).
 
 ## Published Pipelines
 

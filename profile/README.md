@@ -34,7 +34,7 @@ Professor Seirian Sumner is a leading researcher in ecology and genomics.
 <img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/yannick.png">
 
 #### Bioinformatics Advisor : Yannick Wurm
-Yannick is a data scientist expert on genome analysis and evolution.
+Professor Yannick Wurm is a data scientist expert on genome analysis and evolution.
 <br><br><br><br>
 
 ## Where can I found out more?

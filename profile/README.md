@@ -1,5 +1,3 @@
-<img src="https://github.com/Eco-Flow/.github/blob/main/images/ECOFLOW.png">
-
 ## What is Eco-Flow?
 
 Eco-Flow is a UCL based research initiative to develop agri-ecology specific modern, reproducible and scalable data pipelines.
@@ -19,12 +17,6 @@ Or start a community discussion about a potential pipeline by creating a new iss
 Chris is a senior bioinformatician on the project, with a background in omic technologies and pipeline development.
 <br><br><br><br>
 
-<img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/Simon.png">
-
-#### Technical lead                  : Simon Murray
-Simon is a senior bioinformatician on the project, with a background in pipeline development and containerisation.
-<br><br><br>
-
 <img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/seirian.png">
 
 #### Ecology Advisor             : Seirian Sumner
@@ -36,6 +28,15 @@ Professor Seirian Sumner is a leading researcher in ecology and genomics.
 #### Bioinformatics Advisor : Yannick Wurm
 Professor Yannick Wurm is a data scientist expert on genome analysis and evolution.
 <br><br><br><br>
+
+## Former members
+
+<img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/Simon.png">
+
+#### Technical lead                  : Simon Murray
+Simon is a senior bioinformatician on the project, with a background in pipeline development and containerisation.
+<br><br><br>
+
 
 ## Where can I found out more?
 

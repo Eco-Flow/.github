@@ -35,6 +35,7 @@ Professor Yannick Wurm is a data scientist expert on genome analysis and evoluti
 
 #### Technical lead                  : Simon Murray
 Simon is a senior bioinformatician on the project, with a background in pipeline development and containerisation.
+Simon moved to Genomics England (May 2024)
 <br><br><br>
 
 

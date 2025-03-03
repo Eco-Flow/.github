@@ -11,7 +11,7 @@ This community is centered around the pipelines developed by the Eco-Flow team. 
 Or start a community discussion about a potential pipeline by creating a new issue on [Eco-Flow/pipeline-discussions](https://github.com/Eco-Flow/pipeline-discussions/issues). 
 
 ## Who are we?
-<img style="margin-right: 1.0rem" align="left" width="100" src="https://github.com/Eco-Flow/.github/images/chris.png">
+<img style="margin-right: 1.0rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/chris_n.jpg">
 
 #### Project lead           : Chris Wyatt
 Chris is a senior bioinformatician on the project, with a background in omic technologies and pipeline development.

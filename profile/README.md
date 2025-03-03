@@ -17,7 +17,7 @@ Or start a community discussion about a potential pipeline by creating a new iss
 Chris is a senior bioinformatician on the project, with a background in omic technologies and pipeline development.
 <br><br><br><br>
 
-<img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/.github/images/seirian.jpg">
+<img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/ssumner.png">
 
 #### Ecology Advisor             : Seirian Sumner
 Professor Seirian Sumner is a leading researcher in ecology and genomics.

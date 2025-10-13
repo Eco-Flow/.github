@@ -1,3 +1,4 @@
+
 ## What is Eco-Flow?
 
 Eco-Flow is a UCL based research initiative to develop agri-ecology specific modern, reproducible and scalable data pipelines.
@@ -15,7 +16,7 @@ Or start a community discussion about a potential pipeline by creating a new iss
 
 #### Project lead           : Chris Wyatt
 Chris is a senior bioinformatician on the project, with a background in omic technologies and pipeline development.
-<br><br><br><br>
+<br><br><br>
 
 <img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/ssumner.png">
 
@@ -23,21 +24,25 @@ Chris is a senior bioinformatician on the project, with a background in omic tec
 Professor Seirian Sumner is a leading researcher in ecology and genomics.
 <br><br><br>
 
-<img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/yannick.png">
+<img style="margin-right: 1.0rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/fernando.jpg">
+
+#### Research Technician : Fernando Duarte Frutos
+
+Fernando is a bioinoformatician on the project, with expertise in genomics and pipeline development.
+<br><br><br><br>
+
+# Previous Team Members
+<img style="margin-right: 1.0rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/Simon.png" />
+
+#### Technical lead                  : Simon Murray
+Simon was a senior bioinformatician on the project, with a background in pipeline development and containerisation. He left in May 2024 to work at Genomics England as a bioinformatics engineer.
+<br><br><br>
+
+<img style="margin-right: 1.0rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/yannick.png">
 
 #### Bioinformatics Advisor : Yannick Wurm
 Professor Yannick Wurm is a data scientist expert on genome analysis and evolution.
 <br><br><br><br>
-
-## Former members
-
-<img style="margin-right: 1.5rem" align="left" width="100" src="https://github.com/Eco-Flow/Eco-Flow.github.io/blob/publish/img/Simon.png">
-
-#### Technical lead                  : Simon Murray
-Simon is a senior bioinformatician on the project, with a background in pipeline development and containerisation.
-Simon moved to Genomics England (May 2024)
-<br><br><br>
-
 
 ## Where can I found out more?
 
@@ -51,6 +56,7 @@ The intention if for all our pipelines to be deployable in any environment (loca
 
 At Eco-Flow we want to help make deploying large-scale bioinformatics pipelines as easy for you as possible which is why everything we produce is public. This includes the configuration files for specific on-premise HPCs. If you want to see if we have already configured Nextflow for you HPC then check out [Eco-Flow/configs](https://github.com/Eco-Flow/configs).
 
-## Published Pipelines
+## Pipelines in development
 
 * [Eco-Flow/synteny](https://github.com/Eco-Flow/synteny) - A pipeline that compares gene synteny between chromosome level genome assemblies.
+

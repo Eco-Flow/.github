@@ -1,7 +1,7 @@
 
 ## What is Eco-Flow?
 
-Eco-Flow is a UCL based research initiative to develop agri-ecology specific modern, reproducible and scalable data pipelines.
+[Eco-Flow](https://eco-flow.github.io/) is a UCL based research initiative to develop agri-ecology specific modern, reproducible and scalable data pipelines.
 
 Eco-Flow wants to do more than just build pipelines, we want to cultivate a healthy community of people who share similar research within agri-ecology who can help support each other with their research and analysis. 
 
